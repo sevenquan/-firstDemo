@@ -1,0 +1,5 @@
+[Wed Sep 02 2015 19:13:07 GMT+0800 (HKT)]
+collections_phoro_frame.png: ImageMagick error: convert: MustSpecifyImageSize `-' @ error/rgb.c/ReadRGBImage/144.
+convert: NoImagesDefined `png:-' @ error/convert.c/ConvertImageCommand/3106.
+
+
